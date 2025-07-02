@@ -30,7 +30,7 @@ import './Contact.css';
 
 // Import assets
 import bannerVideo from '../assets/hero.mp4';
-import contactElevatorImage from '../assets/con.jpg';
+import contactElevatorImage from '../assets/homecon.jpg';
 import elevatorInteriorImage from '../assets/luxuary.jpeg';
 import elevatorExteriorImage from '../assets/residential.jpg';
 
